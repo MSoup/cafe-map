@@ -16,3 +16,5 @@ export class ItemsComponent implements OnInit {
     this.items = this.itemService.getItems()
   }
 }
+
+

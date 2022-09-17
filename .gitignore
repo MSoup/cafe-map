@@ -1,3 +1,6 @@
+# Custom
+src/environments/*
+
 # NativeScript
 hooks/
 node_modules/
